@@ -1,4 +1,4 @@
-# cookiecutter-flask-restful
+# flask-api-cookiecutter
 
 Cookiecutter template for flask restful, including blueprints, application factory, and more
 
